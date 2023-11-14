@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Bkng/Views/AdministratorView.axaml" value="Bkng/Bkng.csproj" />
+        <entry key="Bkng/Views/BookingView.axaml" value="Bkng/Bkng.csproj" />
+        <entry key="Bkng/Views/GuestView.axaml" value="Bkng/Bkng.csproj" />
+        <entry key="Bkng/Views/Hotel.axaml" value="Bkng/Bkng.csproj" />
+        <entry key="Bkng/Views/HotelView.axaml" value="Bkng/Bkng.csproj" />
+        <entry key="Bkng/Views/MainWindow.axaml" value="Bkng/Bkng.csproj" />
+        <entry key="Bkng/Views/PaymentMethodView.axaml" value="Bkng/Bkng.csproj" />
+        <entry key="Bkng/Views/PaymentView.axaml" value="Bkng/Bkng.csproj" />
+        <entry key="Bkng/Views/ReviewView.axaml" value="Bkng/Bkng.csproj" />
+        <entry key="Bkng/Views/RoomView.axaml" value="Bkng/Bkng.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

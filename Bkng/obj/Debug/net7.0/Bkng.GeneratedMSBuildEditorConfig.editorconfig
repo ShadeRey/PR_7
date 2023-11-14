@@ -1,0 +1,49 @@
+is_global = true
+build_property.AvaloniaNameGeneratorIsEnabled = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Bkng
+build_property.ProjectDir = /home/student/RiderProjects/Bkng/Bkng/
+
+[/home/student/RiderProjects/Bkng/Bkng/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/student/RiderProjects/Bkng/Bkng/Views/AdministratorView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/student/RiderProjects/Bkng/Bkng/Views/BookingView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/student/RiderProjects/Bkng/Bkng/Views/GuestView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/student/RiderProjects/Bkng/Bkng/Views/HotelView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/student/RiderProjects/Bkng/Bkng/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/student/RiderProjects/Bkng/Bkng/Views/PaymentMethodView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/student/RiderProjects/Bkng/Bkng/Views/PaymentView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/student/RiderProjects/Bkng/Bkng/Views/ReviewView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/student/RiderProjects/Bkng/Bkng/Views/RoomTypeView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/student/RiderProjects/Bkng/Bkng/Views/RoomView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
