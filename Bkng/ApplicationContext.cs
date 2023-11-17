@@ -6,6 +6,8 @@ namespace Bkng;
 
 public class ApplicationContext: DbContext
 {
+    public static readonly string ConnectionString = "server=10.10.1.24;user=user_01;password=user01pro;database=pro1_23;";
+    
     public DbSet<Administrator> Administrators { get; set; } = null!;
     public DbSet<Booking> Bookings { get; set; } = null!;
     public DbSet<Guest> Guests { get; set; } = null!;
@@ -18,14 +20,12 @@ public class ApplicationContext: DbContext
 
     public ApplicationContext()
     {
-        Database.EnsureDeleted();
         Database.EnsureCreated();
     }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        var connectionString = "server=10.10.1.24;user=user_01;password=user01pro;database=pro1_23;";
-        optionsBuilder.UseMySql(connectionString,
-            new MySqlServerVersion(ServerVersion.AutoDetect(connectionString)));
+        optionsBuilder.UseMySql(ConnectionString,
+            new MySqlServerVersion(ServerVersion.AutoDetect(ConnectionString)));
     }
 }
